@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: aliceblue;
+}
+
+.fondo-form{
+    background-color: rgb(190, 238, 208);
+}
+
+.fondo-card{
+    background-color: rgb(190, 238, 208);
+}
