@@ -21,10 +21,6 @@
                 <button @click="volver" class="btn btn-dark">volver</button>
             </div>
         </div>
-
-
-        <p v-for="actor in getNombreActores()" :key="actor" >{{ actor }}</p>
-        <p v-for="genero in getNombreGeneros()" :key="genero" >{{ genero }}</p>
     </div>
 
 </template>
