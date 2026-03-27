@@ -1,5 +1,5 @@
 <template>
-    <h2 class="text-center my-5">Generos</h2>
+    <h2 class="text-center my-5">Géneros</h2>
     <div class="container col-6 border rounded shadow fondo-form">
         <div class="row justify-content-center py-5">
             

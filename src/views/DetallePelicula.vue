@@ -18,7 +18,7 @@
                 </ul>
             </div>
             <div class="text-center">
-                <button @click="volver" class="btn btn-dark">volver</button>
+                <button @click="volver" class="btn btn-dark mt-5">volver</button>
             </div>
         </div>
     </div>
